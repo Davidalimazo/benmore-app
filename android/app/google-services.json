@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "694899711513",
+    "project_id": "benmore-74dd9",
+    "storage_bucket": "benmore-74dd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694899711513:android:f94db94aad0bfe4604d488",
+        "android_client_info": {
+          "package_name": "com.example.benmore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3-IDCClLoYuFfIXWujQ8mhl3KH2usWlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
