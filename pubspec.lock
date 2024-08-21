@@ -593,14 +593,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.1.0"
-  fl_chart:
-    dependency: "direct main"
-    description:
-      name: fl_chart
-      sha256: c1e26c7e48496be85104c16c040950b0436674cdf0737f3f6e95511b2529b592
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.63.0"
   flutter:
     dependency: "direct main"
     description: flutter
@@ -776,14 +768,6 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  flutter_windowmanager:
-    dependency: "direct main"
-    description:
-      name: flutter_windowmanager
-      sha256: b4d0bc06f6777952b729c0cdb7ce9ad1ecabd8b8b1cb0acb57a36621457dab1b
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.2.0"
   freezed:
     dependency: "direct dev"
     description:
@@ -1184,14 +1168,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.0.5"
-  mixpanel_flutter:
-    dependency: "direct main"
-    description:
-      name: mixpanel_flutter
-      sha256: "5dc993ade5eaad51ebb6c91230971a3443ac30a3d1d24399bc3db74c5705d400"
-      url: "https://pub.dev"
-    source: hosted
-    version: "2.2.0"
   mockito:
     dependency: "direct main"
     description:
@@ -1408,14 +1384,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "6.0.2"
-  pin_code_fields:
-    dependency: "direct main"
-    description:
-      name: pin_code_fields
-      sha256: c8652519d14688f3fe2a8288d86910a46aa0b9046d728f292d3bf6067c31b4c7
-      url: "https://pub.dev"
-    source: hosted
-    version: "7.4.0"
   platform:
     dependency: transitive
     description:
@@ -1433,7 +1401,7 @@ packages:
     source: hosted
     version: "2.1.8"
   pointycastle:
-    dependency: "direct main"
+    dependency: transitive
     description:
       name: pointycastle
       sha256: "4be0097fcf3fd3e8449e53730c631200ebc7b88016acecab2b0da2f0149222fe"
@@ -1512,14 +1480,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.27.7"
-  screenshot:
-    dependency: "direct main"
-    description:
-      name: screenshot
-      sha256: d448f43130f49bc7eead1b267b3ea0291cb2450f037bb0a0ecce7aa4c65e2aee
-      url: "https://pub.dev"
-    source: hosted
-    version: "2.5.0"
   share_plus:
     dependency: "direct main"
     description:
